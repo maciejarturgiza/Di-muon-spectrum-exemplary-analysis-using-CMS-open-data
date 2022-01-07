@@ -54,3 +54,7 @@ Then (to unpack the files):
 Stop the execution after a few files - the statistics is large enough to be used in further calculations.
 
 The files will be unpacked in folder "csv".
+
+Unfortunately GitHub limits the uploading of the files up to 100MB and files used in here are larger than that.
+
+In case of any trouble with sample's usage, please message me
