@@ -43,10 +43,14 @@ The files are restricted under Creative Commons Attribution 4.0 International Li
 # How to run the analysis on your own
 
 In order to download the dataset to your workspace - use the command from the notebook cell:
+
 !wget https://zenodo.org/record/5345875/files/DataFiles_csv.tar.gz
 
 
 Then (to unpack the files):
+
 !tar xvzf DataFiles_csv.tar.gz
+
 Stop the execution after a few files - the statistics is large enough to be used in further calculations.
+
 The files will be unpacked in folder "csv".
